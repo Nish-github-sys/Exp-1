@@ -1,4 +1,4 @@
-# C-
+# EXP 1
 EXPERIMENT-1:-
 Aim: Hello World & Calculator Program.
 
