@@ -41,3 +41,16 @@ int main(){
     
     return 0;
 }
+
+
+/*==========OUTPUTS==========
+-->Program-1:
+Hello World
+
+-->Program-2:
+Enter Num1:2
+Enter Num2:3
+Addition of Numbers is:5
+Subtraction of Numbers is:-1
+Multiplication of Numbers is:6
+Division of Numbers is:0.666667*/
