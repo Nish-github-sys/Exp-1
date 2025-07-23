@@ -2,7 +2,7 @@
 
 Aim: Hello World & Calculator Program.
 
-Apparatus: VS Code or Programiz online compiler
+Tools Used: VS Code or Programiz online compiler
 
 # Theory
 A C++ program begins with the #include <iostream> directive, which includes the standard input/output library necessary for using cin and cout. The statement using namespace std; allows direct use of these functions without the std:: prefix. Execution starts in the main() function, where cout displays messages like "Welcome to C++ Programming!" and "Hello World," followed by endl to move to the next line. The program then declares an integer variable a and uses cin to read user input, storing it in a. The entered value is displayed using cout, followed by a closing message. Finally, return 0; indicates successful program termination. This structure demonstrates fundamental C++ concepts, including I/O operations, variable usage, and program flow, forming the basis for more complex programming tasks.
