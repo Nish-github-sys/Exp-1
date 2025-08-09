@@ -1,4 +1,4 @@
-# Hello World & Calculator
+# HELLO WORLD & CALCULATOR
 
 Aim: Hello World & Calculator Program.
 
